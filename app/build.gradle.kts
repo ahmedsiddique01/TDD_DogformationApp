@@ -105,10 +105,7 @@ dependencies {
 
     testImplementation(libs.androidx.room.testing)
     testImplementation(libs.kotlinx.coroutines.test)
-    androidTestImplementation(libs.hilt.android.testing)
-    androidTestAnnotationProcessor(libs.hilt.android.compiler)
 
-    implementation(libs.truth)
     testImplementation(libs.mockk)
 
     testImplementation(libs.kotest.assertions.core)

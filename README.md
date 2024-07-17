@@ -1,6 +1,6 @@
 # TDD_DogFormationApp
 
-**TDD_DogFormation** is a sleek Android app crafted using Test-Driven Development (TDD) and Clean Architecture. Fetch and display delightful dog breeds from the Dog CEO API in a dynamic RecyclerView, featuring images and detailed breed information. Leveraging Kotlin, Hilt for DI, and Coroutine Flows for a responsive and maintainable codebase, this project also showcases KSP for efficient annotation processing and Kotlin DSL for a modern build setup.
+**TDD_DogFormationApp** is a sleek Android app crafted using Test-Driven Development (TDD) and Clean Architecture. Fetch and display delightful dog breeds from the Dog CEO API in a dynamic RecyclerView, featuring images and detailed breed information. Leveraging Kotlin, Hilt for DI, and Coroutine Flows for a responsive and maintainable codebase, this project also showcases KSP for efficient annotation processing and Kotlin DSL for a modern build setup.
 
 ## Features
 
@@ -41,7 +41,7 @@ The project follows Clean Architecture, which separates the code into distinct l
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/TDD_DogFormation.git
+   git clone https://github.com/ahmedsiddique01/TDD_DogformationApp.git
    cd TDD_DogFormation
    ```
 
