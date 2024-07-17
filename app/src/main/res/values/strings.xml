@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TDD_DogformationApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="go_to_favorite_action_button">Go to Favorite Action Button</string>
+    <string name="search">Search</string>
+    <string name="back_button">Back Button</string>
+    <string name="cat_image">Cat Image</string>
+    <string name="sub_breeds_none">Sub Breeds: None</string>
+    <string name="sub_breeds">Sub Breeds: %1$s</string>
+    <string name="no_favorites_found">No Favorites Found</string>
+    <string name="no_breed_found">No Breed Found</string>
+    <string name="dog_image">Dog Image</string>
+    <string name="favorite_icon">Favorite Icon</string>
+</resources>
